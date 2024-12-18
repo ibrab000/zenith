@@ -1,6 +1,6 @@
 Introducing Zenith by Ibrahim and Duodeath, a layout that takes into consideration intentional alt-fingering, very high total rolls (specifically inrolls), most consonants on right side which benefits usage of right thumb spacing, and the goal of minimizing the amount of difficult words and letter pairings in the e200 wordlist, all in one layout.
 
-Alt-fingering adjusted stats:
+Alt-fingering adjusted stats (for e200):
 ```
 zenith
 f o u r z p v j l d
