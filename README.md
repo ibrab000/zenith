@@ -3,9 +3,9 @@ Introducing Zenith by Ibrahim and Duodeath, a layout that takes into considerati
 Alt-fingering adjusted stats (for e200):
 ```
 zenith
-f o u r z p v j l d
+f o u r z w v j l d
 y a i n c g s e h t
-' . , b x m w q k ;
+' . , b x m p q k ;
 
 sfb: 0%
 sfs: ~4%
