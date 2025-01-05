@@ -1,0 +1,176 @@
+﻿In2rolls: 24
+in or on he 
+  
+one and out man new few  
+
+work also such long much each hand part want into more word line
+
+how / in2roll / maybe doesn’t count as roll
+
+
+In3rolls: 13
+you the for
+
+they then find face fact form
+
+other point  
+
+turn: LR LM LI for 'urn'
+since: LR LM LI for 'inc'
+
+
+Out3rolls: 2
+set get
+
+
+Out2rolls: 17
+if no by we 
+
+but say who use now may day old way ask not
+
+know life over open
+
+
+Chained Inrolls: 8
+than, under thing think begin order 
+
+help (stacked), during (stacked)
+
+
+Chained Outrolls: 5
+play come very 
+
+right, program 
+
+
+Combination In and Outrolls: 18
+Inroll-Outroll (7):
+would those world house leave large first 
+
+Outroll-Inroll (10):
+both mean plan
+
+which after place write while stand 
+
+show: LI for 'w'
+
+should: out-in-out
+
+
+Alternation / Sfs / Redirect / Double Letter / With Rolls: 79
+this / in2roll / alternation
+that / in2roll / alternation
+must / alternation / out2roll
+there / in3roll / alternation
+when / redirect / in2roll X: in2roll (alt)
+year / alternation / in2roll
+some / alternation / out2roll
+take / alternation / in2roll
+about / in2roll / alternation / in2roll X: stacked in2roll 
+make / alternation / in2roll
+have / alternation / out2roll
+with / alternation / in2roll
+these / in3roll / out2roll
+could / redirect / in2roll / out2roll X: alt?
+state / out2roll / alternation / in2roll
+will / alternation / double letter
+what / out2roll / alternation
+time / alternation / out2roll
+only / in2roll / alternation
+see / out2roll / double letter
+like / alternation / in2roll
+give / alternation / out2roll RM RI for 'g_v'
+most / alternation / out2roll RM RI for 'm_s'
+before / alternation / in3roll
+through / in2roll / redirect / out2roll
+where / in2roll / alternation
+well / out3roll / double letter
+people / out2roll / redirect
+just / alternation / out2roll
+because / sfs / in2roll / in2roll
+feel / double letter / out2roll
+seem / out2roll / double letter
+high / alternation / out2roll
+little / alternation / double letter / in3roll
+still / out2roll / double letter
+nation / out2roll / redirect
+tell / in2roll / redirect / double letter
+become / sfs / out2roll / out2roll
+here / in2roll / alternation
+between / out2roll / out2roll / double letter
+need / double letter / out2roll
+call / out2roll / double letter
+develop / in3roll / redirect / alternation
+last / alternation / out2roll
+move / alternation / out2roll
+general / out2roll / alternation / out2roll
+never / (sfs or redirect)
+same / alternation / out2roll
+another / sfs / in3roll
+number / out2roll / alternation / alternation
+might / alternation / out3roll
+off / out2roll / double letter
+child / alternation / out2roll
+small / in2roll / double letter
+against / alternation / in3roll / out2roll
+late / alternation / in2roll
+home / alternation / out2roll
+interest / in2roll / in2roll / alternation / out2roll
+person / out2roll / alternation / in2roll
+public / in2roll / alternation / in2roll
+follow / in2roll / double letter / in2roll
+present / alternation / (sfs or redirect) / alternation
+without / alternation / in2roll / in2roll
+again / alternation / in3roll
+hold / sfs / in2roll
+govern / alternation / out2roll / in2roll
+around / in2roll / in3roll (stacked)
+possible / sfs / double letter / in2roll / in2roll
+head / in2roll / alternation
+consider / sfs / alternation / in2roll
+problem / out2roll / sfs / in3roll
+however / in2roll / (sfs or redirect)
+lead / in2roll / alternation
+system / alternation / in3roll
+keep / in2roll / double letter / in2roll
+increase / in3roll / redirect / alternation / out2roll
+early / in2roll / alternation
+course / redirect / in3roll / out2roll
+change / alternation / in2roll / out2roll
+
+
+Alternation / Sfs / Redirect / Double Letter Without Rolls: 20
+Redirect:
+she any can 
+from many
+group
+
+Alternation:
+eye end own
+real down
+great
+
+Double Letter:
+too all
+good look
+
+SFS:
+back even
+
+run / redirect LM LI for 'r_n'
+school / alternation / double letter 
+
+
+N/A: 12
+so
+be
+of
+to 
+as 
+at 
+do 
+it 
+up 
+go 
+I
+a
