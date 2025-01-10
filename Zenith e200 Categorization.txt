@@ -174,3 +174,50 @@ up
 go 
 I
 a
+
+Starting Letters:
+A: a as at all and any ask also about after again around against another
+B: be by but back both begin become before because between
+C: can call come child could change course consider
+D: do day down during develop develop
+E: end eye each even early
+F: few for face fact feel find form from first follow 
+G: go get give good great group govern general 
+H: he how hand have head help here high hold home house however
+I: i if in it increase interest
+J: just
+K: keep know
+L: last late lead life like line long look large leave little 
+M: man may make many mean more most move much must might 
+N: no new not now need never nation number 
+O: of on or off old one out own only open over order other 
+P: part plan play place point people person public present problem program possible
+R: run real right 
+S: so say see set she same seem show some such since small stand state still school should system 
+T: to take tell than that then they this time turn there these thing think those through 
+U: up use under 
+V: very 
+W: we way who want well what when will with word work where which while world would write without 
+Y: you year 
+
+Ending Letters:
+A: a 
+C: public 
+D: and end old find good hand head hold lead need word child could stand world would around should 
+E: be he we eye one see she the use come face give have here home late life like line make more move same some take time house large leave since state there these those where while write become before change course little people because increase possible
+F: if of off
+G: long thing during
+H: both each high much such with which through 
+I: i
+K: ask back look work think
+L: all call feel tell well will small still school general 
+M: from form seem system problem program
+N: in on can man own run down even mean than then turn when again begin govern nation person between 
+O: do go no so to too who also into 
+P: up help keep group develop 
+R: or for over year after never order other under number another however consider 
+S: as this 
+T: at it but get not out set fact just must part that want what about first great might point right against present withouth interest 
+U: you 
+W: few how new now know show follow
+Y: by any day may say way many play very early 
